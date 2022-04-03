@@ -1,0 +1,17 @@
+.Home {
+  text-align: center;
+  background-image: url("https://img.freepik.com/free-vector/gradient-abstract-background-design_23-2149066048.jpg?t=st=1648197251~exp=1648197851~hmac=6f37d33d8020538e5b8872592adb21beb13d56e750aee7a37b2ede3203de8333&w=1060"); 
+  display: flex;
+  background-size: cover;
+  filter: blur(8px);
+  justify-content: center;  
+  align-items: center;
+  color:#444fad;
+  flex-direction: column;
+  border: 1px solid whitesmoke;
+  font-style: normal;
+  font-size: xx-large;
+  /* font-family: 'Lobster', cursive; */
+  font-family: 'Lemon', cursive;
+  /* opacity: 0.8; */
+}

@@ -1,0 +1,3 @@
+npm install react-facebook-login
+npm install axios
+npm install react-router-dom

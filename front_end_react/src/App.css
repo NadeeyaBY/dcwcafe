@@ -1,0 +1,58 @@
+.App {
+ text-align: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url("https://www.desktopbackground.org/p/2011/02/28/164620_macaroons-food-wallpapers-36606298-fanpop_2000x1346_h.jpg");
+  background-size: cover;
+  z-index: 10000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: rgb(202, 48, 138);
+  flex-direction: column;
+  font-family: 'Permanent Marker', cursive;
+}
+
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+ 
+  background-color: #282c34;
+  background-image: url("https://i.pinimg.com/564x/02/1c/e0/021ce052f5f4ae568853daad11eec53e.jpg");
+  
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: rgb(48, 151, 235);
+  
+
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

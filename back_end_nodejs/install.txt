@@ -1,0 +1,3 @@
+npm i cors body-paeser axios
+npm init
+npm install express
